@@ -343,7 +343,7 @@
   left:290px;
   top:624px;
   width:170px;
-  height:149px;
+  height:246px;
   font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
   font-weight:200;
   font-style:normal;
@@ -355,12 +355,12 @@
   left:0px;
   top:0px;
   width:170px;
-  height:149px;
+  height:246px;
 }
 #u26 {
   position:absolute;
   left:2px;
-  top:66px;
+  top:115px;
   width:166px;
   word-wrap:break-word;
 }
@@ -369,7 +369,7 @@
   left:459px;
   top:624px;
   width:467px;
-  height:149px;
+  height:246px;
   text-decoration:underline;
   color:#4277A8;
 }
@@ -378,12 +378,12 @@
   left:0px;
   top:0px;
   width:467px;
-  height:149px;
+  height:246px;
 }
 #u28 {
   position:absolute;
   left:2px;
-  top:66px;
+  top:115px;
   width:463px;
   visibility:hidden;
   word-wrap:break-word;
@@ -412,7 +412,7 @@
 #u31 {
   position:absolute;
   left:290px;
-  top:827px;
+  top:924px;
   width:636px;
   height:10px;
 }
@@ -468,7 +468,7 @@
 #u33 {
   position:absolute;
   left:400px;
-  top:850px;
+  top:947px;
   width:375px;
   height:14px;
   font-size:14px;
@@ -489,7 +489,7 @@
 #u35 {
   position:absolute;
   left:755px;
-  top:850px;
+  top:947px;
   width:120px;
   height:14px;
   font-size:14px;
@@ -513,7 +513,7 @@
 #u38 {
   position:absolute;
   left:627px;
-  top:880px;
+  top:977px;
   width:202px;
   height:60px;
   font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
@@ -631,7 +631,7 @@
   left:472px;
   top:703px;
   width:380px;
-  height:48px;
+  height:16px;
   font-size:14px;
   color:#888888;
 }
@@ -673,7 +673,7 @@
 #u52 {
   position:absolute;
   left:290px;
-  top:772px;
+  top:869px;
   width:636px;
   height:45px;
   text-decoration:underline;
@@ -722,7 +722,7 @@
 }
 #u56 {
   position:absolute;
-  left:582px;
+  left:570px;
   top:654px;
   width:300px;
   height:12px;
@@ -818,8 +818,8 @@
 }
 #u65 {
   position:absolute;
-  left:622px;
-  top:739px;
+  left:547px;
+  top:705px;
   width:72px;
   height:12px;
   font-size:12px;
@@ -867,7 +867,7 @@
 #u70 {
   position:absolute;
   left:592px;
-  top:787px;
+  top:884px;
   width:108px;
   height:12px;
   font-size:12px;
@@ -888,7 +888,7 @@
 #u72 {
   position:absolute;
   left:701px;
-  top:787px;
+  top:884px;
   width:69px;
   height:12px;
   font-size:12px;
@@ -909,7 +909,7 @@
 #u74 {
   position:absolute;
   left:473px;
-  top:787px;
+  top:884px;
   width:109px;
   height:12px;
   font-size:12px;
@@ -1235,7 +1235,7 @@
 #u97 {
   position:absolute;
   left:417px;
-  top:880px;
+  top:977px;
   width:202px;
   height:60px;
   font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
@@ -1265,4 +1265,94 @@
   text-shadow:0px 1px 0px rgba(255, 255, 255, 1);
   -webkit-text-shadow:0px 1px 0px rgba(255, 255, 255, 1);
   -moz-text-shadow:0px 1px 0px rgba(255, 255, 255, 1);
+}
+#u99 {
+  position:absolute;
+  left:472px;
+  top:750px;
+  width:380px;
+  height:16px;
+  font-size:14px;
+  color:#888888;
+}
+#u100 {
+  position:absolute;
+  left:16px;
+  top:0px;
+  width:362px;
+  word-wrap:break-word;
+}
+#u99_input {
+  position:absolute;
+  left:-3px;
+  top:-2px;
+}
+#u101 {
+  position:absolute;
+  left:535px;
+  top:752px;
+  width:72px;
+  height:12px;
+  font-size:12px;
+  text-decoration:underline;
+  color:#888888;
+}
+#u101_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:72px;
+  height:12px;
+}
+#u102 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:72px;
+  word-wrap:break-word;
+}
+#u104 {
+  position:absolute;
+  left:472px;
+  top:804px;
+  width:380px;
+  height:16px;
+  font-size:14px;
+  color:#888888;
+}
+#u105 {
+  position:absolute;
+  left:16px;
+  top:0px;
+  width:362px;
+  word-wrap:break-word;
+}
+#u104_input {
+  position:absolute;
+  left:-3px;
+  top:-2px;
+}
+#u106 {
+  position:absolute;
+  left:668px;
+  top:806px;
+  width:72px;
+  height:12px;
+  font-size:12px;
+  text-decoration:underline;
+  color:#888888;
+}
+#u106_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:72px;
+  height:12px;
+}
+#u107 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:72px;
+  word-wrap:break-word;
 }
