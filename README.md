@@ -5,4 +5,5 @@ bestbookDemo
 
 ## bestbook 雲書demo
 
-可以前往 http://wenbatman33.github.io/bestbookDemo/
+沒事不要進來 這只是demo網站
+http://wenbatman33.github.io/bestbookDemo/
