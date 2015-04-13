@@ -4778,3 +4778,30 @@
   width:20px;
   word-wrap:break-word;
 }
+#u305 {
+  position:absolute;
+  left:1090px;
+  top:60px;
+  width:167px;
+  height:40px;
+  font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
+  font-weight:200;
+  font-style:normal;
+  font-size:16px;
+  color:#FFFFFF;
+  line-height:18px;
+}
+#u305_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:167px;
+  height:40px;
+}
+#u306 {
+  position:absolute;
+  left:10px;
+  top:11px;
+  width:155px;
+  word-wrap:break-word;
+}
