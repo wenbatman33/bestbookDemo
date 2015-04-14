@@ -4706,94 +4706,69 @@
 }
 #u350 {
   position:absolute;
-  left:1010px;
-  top:96px;
-  width:189px;
-  height:48px;
-}
-#u350_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:189px;
-  height:48px;
-}
-#u351 {
-  position:absolute;
-  left:2px;
-  top:16px;
-  width:185px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u352 {
-  position:absolute;
-  left:1057px;
-  top:109px;
-  width:102px;
-  height:24px;
-  font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
-  font-weight:200;
-  font-style:normal;
-  font-size:12px;
-  color:#FFFFFF;
-  text-align:left;
-}
-#u352_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:102px;
-  height:24px;
-}
-#u353 {
-  position:absolute;
-  left:2px;
-  top:6px;
-  width:98px;
-  word-wrap:break-word;
-}
-#u354 {
-  position:absolute;
-  left:1026px;
-  top:109px;
-  width:24px;
-  height:24px;
-}
-#u354_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:24px;
-  height:24px;
-}
-#u355 {
-  position:absolute;
-  left:2px;
-  top:4px;
-  width:20px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u356 {
-  position:absolute;
   left:22px;
   top:25px;
   width:83px;
   height:111px;
 }
-#u356_img {
+#u350_img {
   position:absolute;
   left:0px;
   top:0px;
   width:83px;
   height:111px;
 }
-#u357 {
+#u351 {
   position:absolute;
   left:2px;
   top:48px;
   width:79px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u352 {
+  position:absolute;
+  left:1022px;
+  top:78px;
+  width:116px;
+  height:24px;
+  font-size:12px;
+  color:#009DD9;
+  line-height:24px;
+}
+#u352_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:116px;
+  height:24px;
+}
+#u353 {
+  position:absolute;
+  left:2px;
+  top:0px;
+  width:112px;
+  word-wrap:break-word;
+}
+#u354 {
+  position:absolute;
+  left:1177px;
+  top:118px;
+  width:16px;
+  height:16px;
+}
+#u354_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:16px;
+  height:16px;
+}
+#u355 {
+  position:absolute;
+  left:2px;
+  top:0px;
+  width:12px;
   visibility:hidden;
   word-wrap:break-word;
 }
