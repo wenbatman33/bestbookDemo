@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:1260px;
+  width:1240px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -113,7 +113,7 @@
 }
 #u7 {
   position:absolute;
-  left:1010px;
+  left:993px;
   top:20px;
   width:21px;
   height:19px;
@@ -135,7 +135,7 @@
 }
 #u9 {
   position:absolute;
-  left:1038px;
+  left:1021px;
   top:20px;
   width:94px;
   height:24px;
@@ -163,7 +163,7 @@
 }
 #u11 {
   position:absolute;
-  left:939px;
+  left:922px;
   top:18px;
   width:22px;
   height:25px;
@@ -185,7 +185,7 @@
 }
 #u13 {
   position:absolute;
-  left:910px;
+  left:893px;
   top:10px;
   width:10px;
   height:40px;
@@ -213,7 +213,7 @@
 }
 #u14 {
   position:absolute;
-  left:952px;
+  left:935px;
   top:12px;
   width:24px;
   height:24px;
@@ -236,7 +236,7 @@
 }
 #u16 {
   position:absolute;
-  left:990px;
+  left:973px;
   top:10px;
   width:10px;
   height:40px;
@@ -264,14 +264,14 @@
 }
 #u17 {
   position:absolute;
-  left:1156px;
+  left:1136px;
   top:20px;
-  width:57px;
+  width:49px;
   height:24px;
   font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
   font-weight:200;
   font-style:normal;
-  font-size:14px;
+  font-size:12px;
   text-decoration:underline;
   color:#009DD9;
   text-align:center;
@@ -281,26 +281,26 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:57px;
+  width:49px;
   height:24px;
 }
 #u18 {
   position:absolute;
   left:0px;
   top:0px;
-  width:57px;
+  width:49px;
   white-space:nowrap;
 }
 #u19 {
   position:absolute;
-  left:1223px;
+  left:1203px;
   top:20px;
-  width:57px;
+  width:49px;
   height:24px;
   font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
   font-weight:200;
   font-style:normal;
-  font-size:14px;
+  font-size:12px;
   text-decoration:underline;
   color:#009DD9;
   text-align:center;
@@ -310,19 +310,19 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:57px;
+  width:49px;
   height:24px;
 }
 #u20 {
   position:absolute;
   left:0px;
   top:0px;
-  width:57px;
+  width:49px;
   white-space:nowrap;
 }
 #u21 {
   position:absolute;
-  left:1135px;
+  left:1118px;
   top:10px;
   width:10px;
   height:40px;
