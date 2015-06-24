@@ -112,8 +112,8 @@
 }
 #u8 {
   position:absolute;
-  left:20px;
-  top:225px;
+  left:110px;
+  top:114px;
   width:72px;
   height:25px;
   font-size:18px;
@@ -419,7 +419,7 @@
 #u28 {
   position:absolute;
   left:0px;
-  top:407px;
+  top:360px;
   width:1256px;
   height:10px;
 }
@@ -584,7 +584,7 @@
 }
 #u39 {
   position:absolute;
-  left:110px;
+  left:166px;
   top:118px;
   width:264px;
   height:18px;
@@ -642,7 +642,7 @@
 #u43 {
   position:absolute;
   left:110px;
-  top:299px;
+  top:278px;
   width:645px;
   height:27px;
   font-size:14px;
@@ -665,7 +665,7 @@
 #u45 {
   position:absolute;
   left:1040px;
-  top:303px;
+  top:282px;
   width:131px;
   height:40px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -703,7 +703,7 @@
 #u47 {
   position:absolute;
   left:1040px;
-  top:345px;
+  top:324px;
   width:131px;
   height:15px;
   font-size:12px;
@@ -728,7 +728,7 @@
 #u49 {
   position:absolute;
   left:20px;
-  top:269px;
+  top:248px;
   width:72px;
   height:103px;
 }
@@ -749,8 +749,8 @@
 }
 #u51 {
   position:absolute;
-  left:110px;
-  top:271px;
+  left:190px;
+  top:250px;
   width:420px;
   height:21px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -777,7 +777,7 @@
 #u53 {
   position:absolute;
   left:0px;
-  top:251px;
+  top:230px;
   width:1256px;
   height:10px;
 }
@@ -805,7 +805,7 @@
 #u54 {
   position:absolute;
   left:0px;
-  top:574px;
+  top:490px;
   width:1256px;
   height:10px;
 }
@@ -833,7 +833,7 @@
 #u55 {
   position:absolute;
   left:110px;
-  top:455px;
+  top:403px;
   width:645px;
   height:27px;
   font-size:14px;
@@ -856,7 +856,7 @@
 #u57 {
   position:absolute;
   left:1040px;
-  top:474px;
+  top:427px;
   width:131px;
   height:40px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -894,7 +894,7 @@
 #u59 {
   position:absolute;
   left:20px;
-  top:426px;
+  top:379px;
   width:72px;
   height:103px;
 }
@@ -915,8 +915,8 @@
 }
 #u61 {
   position:absolute;
-  left:110px;
-  top:425px;
+  left:166px;
+  top:378px;
   width:264px;
   height:30px;
   font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
@@ -942,7 +942,7 @@
 #u63 {
   position:absolute;
   left:0px;
-  top:701px;
+  top:617px;
   width:1256px;
   height:10px;
 }
@@ -970,7 +970,7 @@
 #u64 {
   position:absolute;
   left:110px;
-  top:617px;
+  top:533px;
   width:645px;
   height:27px;
   font-size:14px;
@@ -993,7 +993,7 @@
 #u66 {
   position:absolute;
   left:110px;
-  top:663px;
+  top:579px;
   width:150px;
   height:31px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -1024,7 +1024,7 @@
 #u68 {
   position:absolute;
   left:1040px;
-  top:634px;
+  top:550px;
   width:131px;
   height:40px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -1062,7 +1062,7 @@
 #u70 {
   position:absolute;
   left:20px;
-  top:593px;
+  top:509px;
   width:72px;
   height:103px;
 }
@@ -1084,7 +1084,7 @@
 #u72 {
   position:absolute;
   left:110px;
-  top:592px;
+  top:508px;
   width:264px;
   height:30px;
   font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
@@ -1110,7 +1110,7 @@
 #u74 {
   position:absolute;
   left:270px;
-  top:663px;
+  top:579px;
   width:110px;
   height:31px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -1141,7 +1141,7 @@
 #u76 {
   position:absolute;
   left:0px;
-  top:939px;
+  top:855px;
   width:1256px;
   height:10px;
 }
@@ -1169,7 +1169,7 @@
 #u77 {
   position:absolute;
   left:110px;
-  top:855px;
+  top:771px;
   width:645px;
   height:27px;
   font-size:14px;
@@ -1192,7 +1192,7 @@
 #u79 {
   position:absolute;
   left:110px;
-  top:901px;
+  top:817px;
   width:150px;
   height:31px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -1223,7 +1223,7 @@
 #u81 {
   position:absolute;
   left:20px;
-  top:831px;
+  top:747px;
   width:72px;
   height:103px;
 }
@@ -1245,7 +1245,7 @@
 #u83 {
   position:absolute;
   left:110px;
-  top:830px;
+  top:746px;
   width:264px;
   height:30px;
   font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
@@ -1271,7 +1271,7 @@
 #u85 {
   position:absolute;
   left:270px;
-  top:901px;
+  top:817px;
   width:110px;
   height:31px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -1302,7 +1302,7 @@
 #u87 {
   position:absolute;
   left:0px;
-  top:1060px;
+  top:976px;
   width:1256px;
   height:10px;
 }
@@ -1330,7 +1330,7 @@
 #u88 {
   position:absolute;
   left:110px;
-  top:976px;
+  top:892px;
   width:645px;
   height:27px;
   font-size:14px;
@@ -1353,7 +1353,7 @@
 #u90 {
   position:absolute;
   left:110px;
-  top:1022px;
+  top:938px;
   width:150px;
   height:31px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -1384,7 +1384,7 @@
 #u92 {
   position:absolute;
   left:1040px;
-  top:991px;
+  top:907px;
   width:131px;
   height:40px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -1422,7 +1422,7 @@
 #u94 {
   position:absolute;
   left:20px;
-  top:952px;
+  top:868px;
   width:72px;
   height:103px;
 }
@@ -1444,7 +1444,7 @@
 #u96 {
   position:absolute;
   left:110px;
-  top:951px;
+  top:867px;
   width:264px;
   height:30px;
   font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
@@ -1470,7 +1470,7 @@
 #u98 {
   position:absolute;
   left:270px;
-  top:1022px;
+  top:938px;
   width:110px;
   height:31px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -1501,7 +1501,7 @@
 #u100 {
   position:absolute;
   left:0px;
-  top:820px;
+  top:736px;
   width:1256px;
   height:10px;
 }
@@ -1529,7 +1529,7 @@
 #u101 {
   position:absolute;
   left:110px;
-  top:736px;
+  top:652px;
   width:645px;
   height:27px;
   font-size:14px;
@@ -1552,7 +1552,7 @@
 #u103 {
   position:absolute;
   left:110px;
-  top:782px;
+  top:698px;
   width:150px;
   height:31px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -1583,7 +1583,7 @@
 #u105 {
   position:absolute;
   left:1040px;
-  top:755px;
+  top:671px;
   width:131px;
   height:40px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -1621,7 +1621,7 @@
 #u107 {
   position:absolute;
   left:20px;
-  top:712px;
+  top:628px;
   width:72px;
   height:103px;
 }
@@ -1643,7 +1643,7 @@
 #u109 {
   position:absolute;
   left:110px;
-  top:711px;
+  top:627px;
   width:264px;
   height:30px;
   font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
@@ -1669,7 +1669,7 @@
 #u111 {
   position:absolute;
   left:270px;
-  top:782px;
+  top:698px;
   width:110px;
   height:31px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -1700,7 +1700,7 @@
 #u113 {
   position:absolute;
   left:1040px;
-  top:871px;
+  top:787px;
   width:131px;
   height:40px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -1870,7 +1870,7 @@
 #u124 {
   position:absolute;
   left:1231px;
-  top:278px;
+  top:257px;
   width:22px;
   height:21px;
   opacity:0.18;
@@ -1898,7 +1898,7 @@
 #u126 {
   position:absolute;
   left:1233px;
-  top:333px;
+  top:312px;
   width:18px;
   height:18px;
 }
@@ -1920,7 +1920,7 @@
 #u128 {
   position:absolute;
   left:1229px;
-  top:350px;
+  top:329px;
   width:25px;
   height:24px;
   font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
@@ -1947,7 +1947,7 @@
 #u130 {
   position:absolute;
   left:1231px;
-  top:295px;
+  top:274px;
   width:25px;
   height:24px;
   font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
@@ -1974,7 +1974,7 @@
 #u132 {
   position:absolute;
   left:1215px;
-  top:271px;
+  top:250px;
   width:10px;
   height:104px;
 }
@@ -2002,7 +2002,7 @@
 #u133 {
   position:absolute;
   left:1231px;
-  top:436px;
+  top:389px;
   width:22px;
   height:21px;
   opacity:0.18;
@@ -2030,7 +2030,7 @@
 #u135 {
   position:absolute;
   left:1233px;
-  top:489px;
+  top:442px;
   width:18px;
   height:18px;
 }
@@ -2052,7 +2052,7 @@
 #u137 {
   position:absolute;
   left:1229px;
-  top:506px;
+  top:459px;
   width:25px;
   height:24px;
   font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
@@ -2079,7 +2079,7 @@
 #u139 {
   position:absolute;
   left:1231px;
-  top:453px;
+  top:406px;
   width:25px;
   height:24px;
   font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
@@ -2106,7 +2106,7 @@
 #u141 {
   position:absolute;
   left:1215px;
-  top:427px;
+  top:380px;
   width:10px;
   height:104px;
 }
@@ -2134,7 +2134,7 @@
 #u142 {
   position:absolute;
   left:1231px;
-  top:599px;
+  top:515px;
   width:22px;
   height:21px;
   opacity:0.18;
@@ -2162,7 +2162,7 @@
 #u144 {
   position:absolute;
   left:1231px;
-  top:616px;
+  top:532px;
   width:25px;
   height:24px;
   font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
@@ -2189,7 +2189,7 @@
 #u146 {
   position:absolute;
   left:1215px;
-  top:590px;
+  top:506px;
   width:10px;
   height:104px;
 }
@@ -2217,7 +2217,7 @@
 #u147 {
   position:absolute;
   left:1231px;
-  top:725px;
+  top:641px;
   width:22px;
   height:21px;
   opacity:0.18;
@@ -2245,7 +2245,7 @@
 #u149 {
   position:absolute;
   left:1231px;
-  top:742px;
+  top:658px;
   width:25px;
   height:24px;
   font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
@@ -2272,7 +2272,7 @@
 #u151 {
   position:absolute;
   left:1215px;
-  top:716px;
+  top:632px;
   width:10px;
   height:104px;
 }
@@ -2300,7 +2300,7 @@
 #u152 {
   position:absolute;
   left:1231px;
-  top:839px;
+  top:755px;
   width:22px;
   height:21px;
   opacity:0.18;
@@ -2328,7 +2328,7 @@
 #u154 {
   position:absolute;
   left:1231px;
-  top:856px;
+  top:772px;
   width:25px;
   height:24px;
   font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
@@ -2355,7 +2355,7 @@
 #u156 {
   position:absolute;
   left:1215px;
-  top:830px;
+  top:746px;
   width:10px;
   height:104px;
 }
@@ -2383,7 +2383,7 @@
 #u157 {
   position:absolute;
   left:1233px;
-  top:656px;
+  top:572px;
   width:18px;
   height:18px;
   opacity:0.2;
@@ -2406,7 +2406,7 @@
 #u159 {
   position:absolute;
   left:1222px;
-  top:640px;
+  top:556px;
   width:34px;
   height:10px;
 }
@@ -2434,7 +2434,7 @@
 #u160 {
   position:absolute;
   left:1231px;
-  top:674px;
+  top:590px;
   width:25px;
   height:24px;
   font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
@@ -2461,7 +2461,7 @@
 #u162 {
   position:absolute;
   left:1233px;
-  top:778px;
+  top:694px;
   width:18px;
   height:18px;
   opacity:0.2;
@@ -2484,7 +2484,7 @@
 #u164 {
   position:absolute;
   left:1222px;
-  top:762px;
+  top:678px;
   width:34px;
   height:10px;
 }
@@ -2512,7 +2512,7 @@
 #u165 {
   position:absolute;
   left:1231px;
-  top:796px;
+  top:712px;
   width:25px;
   height:24px;
   font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
@@ -2539,7 +2539,7 @@
 #u167 {
   position:absolute;
   left:1233px;
-  top:896px;
+  top:812px;
   width:18px;
   height:18px;
   opacity:0.2;
@@ -2562,7 +2562,7 @@
 #u169 {
   position:absolute;
   left:1222px;
-  top:880px;
+  top:796px;
   width:34px;
   height:10px;
 }
@@ -2590,7 +2590,7 @@
 #u170 {
   position:absolute;
   left:1231px;
-  top:914px;
+  top:830px;
   width:25px;
   height:24px;
   font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
@@ -2617,7 +2617,7 @@
 #u172 {
   position:absolute;
   left:1222px;
-  top:477px;
+  top:430px;
   width:34px;
   height:10px;
 }
@@ -2645,7 +2645,7 @@
 #u173 {
   position:absolute;
   left:1222px;
-  top:318px;
+  top:297px;
   width:34px;
   height:10px;
 }
@@ -2701,7 +2701,7 @@
 #u175 {
   position:absolute;
   left:1215px;
-  top:953px;
+  top:869px;
   width:10px;
   height:104px;
 }
@@ -2729,7 +2729,7 @@
 #u176 {
   position:absolute;
   left:1231px;
-  top:957px;
+  top:873px;
   width:22px;
   height:21px;
   opacity:0.18;
@@ -2757,7 +2757,7 @@
 #u178 {
   position:absolute;
   left:1231px;
-  top:974px;
+  top:890px;
   width:25px;
   height:24px;
   font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
@@ -2784,7 +2784,7 @@
 #u180 {
   position:absolute;
   left:1222px;
-  top:998px;
+  top:914px;
   width:34px;
   height:10px;
 }
@@ -2811,11 +2811,11 @@
 }
 #u181 {
   position:absolute;
-  left:20px;
-  top:377px;
+  left:110px;
+  top:248px;
   width:80px;
   height:25px;
-  font-size:16px;
+  font-size:18px;
   color:#888888;
   line-height:16px;
 }
@@ -2836,7 +2836,7 @@
 #u183 {
   position:absolute;
   left:110px;
-  top:498px;
+  top:451px;
   width:150px;
   height:31px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -2867,7 +2867,7 @@
 #u185 {
   position:absolute;
   left:270px;
-  top:498px;
+  top:451px;
   width:110px;
   height:31px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -2898,7 +2898,7 @@
 #u187 {
   position:absolute;
   left:110px;
-  top:341px;
+  top:320px;
   width:130px;
   height:31px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -2929,7 +2929,7 @@
 #u189 {
   position:absolute;
   left:250px;
-  top:341px;
+  top:320px;
   width:130px;
   height:31px;
   font-family:'STHeitiTC-Medium', 'Heiti TC Medium', 'Heiti TC';
@@ -2959,8 +2959,8 @@
 }
 #u191 {
   position:absolute;
-  left:20px;
-  top:539px;
+  left:110px;
+  top:377px;
   width:80px;
   height:25px;
   font-size:18px;
