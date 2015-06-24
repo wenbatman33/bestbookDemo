@@ -113,8 +113,8 @@
 #u8 {
   position:absolute;
   left:110px;
-  top:193px;
-  width:40px;
+  top:114px;
+  width:72px;
   height:25px;
   font-size:18px;
   color:#888888;
@@ -124,14 +124,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:40px;
+  width:72px;
   height:25px;
 }
 #u9 {
   position:absolute;
   left:0px;
   top:4px;
-  width:40px;
+  width:72px;
   word-wrap:break-word;
 }
 #u10 {
@@ -396,7 +396,7 @@
 #u26 {
   position:absolute;
   left:110px;
-  top:144px;
+  top:151px;
   width:645px;
   height:27px;
   font-size:14px;
@@ -419,7 +419,7 @@
 #u28 {
   position:absolute;
   left:0px;
-  top:358px;
+  top:360px;
   width:1256px;
   height:10px;
 }
@@ -468,8 +468,8 @@
 }
 #u31 {
   position:absolute;
-  left:169px;
-  top:187px;
+  left:110px;
+  top:190px;
   width:130px;
   height:31px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -584,7 +584,7 @@
 }
 #u39 {
   position:absolute;
-  left:110px;
+  left:166px;
   top:118px;
   width:264px;
   height:18px;
@@ -610,8 +610,8 @@
 }
 #u41 {
   position:absolute;
-  left:309px;
-  top:187px;
+  left:250px;
+  top:190px;
   width:130px;
   height:31px;
   font-family:'STHeitiTC-Medium', 'Heiti TC Medium', 'Heiti TC';
@@ -642,7 +642,7 @@
 #u43 {
   position:absolute;
   left:110px;
-  top:274px;
+  top:278px;
   width:645px;
   height:27px;
   font-size:14px;
@@ -665,7 +665,7 @@
 #u45 {
   position:absolute;
   left:1040px;
-  top:284px;
+  top:282px;
   width:131px;
   height:40px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -703,7 +703,7 @@
 #u47 {
   position:absolute;
   left:1040px;
-  top:326px;
+  top:324px;
   width:131px;
   height:15px;
   font-size:12px;
@@ -728,7 +728,7 @@
 #u49 {
   position:absolute;
   left:20px;
-  top:250px;
+  top:248px;
   width:72px;
   height:103px;
 }
@@ -749,8 +749,8 @@
 }
 #u51 {
   position:absolute;
-  left:110px;
-  top:252px;
+  left:190px;
+  top:250px;
   width:420px;
   height:21px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -777,7 +777,7 @@
 #u53 {
   position:absolute;
   left:0px;
-  top:232px;
+  top:230px;
   width:1256px;
   height:10px;
 }
@@ -805,7 +805,7 @@
 #u54 {
   position:absolute;
   left:0px;
-  top:485px;
+  top:490px;
   width:1256px;
   height:10px;
 }
@@ -833,7 +833,7 @@
 #u55 {
   position:absolute;
   left:110px;
-  top:401px;
+  top:403px;
   width:645px;
   height:27px;
   font-size:14px;
@@ -856,7 +856,7 @@
 #u57 {
   position:absolute;
   left:1040px;
-  top:425px;
+  top:427px;
   width:131px;
   height:40px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -894,7 +894,7 @@
 #u59 {
   position:absolute;
   left:20px;
-  top:377px;
+  top:379px;
   width:72px;
   height:103px;
 }
@@ -915,8 +915,8 @@
 }
 #u61 {
   position:absolute;
-  left:110px;
-  top:376px;
+  left:166px;
+  top:378px;
   width:264px;
   height:30px;
   font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
@@ -942,7 +942,7 @@
 #u63 {
   position:absolute;
   left:0px;
-  top:612px;
+  top:617px;
   width:1256px;
   height:10px;
 }
@@ -970,7 +970,7 @@
 #u64 {
   position:absolute;
   left:110px;
-  top:528px;
+  top:533px;
   width:645px;
   height:27px;
   font-size:14px;
@@ -993,7 +993,7 @@
 #u66 {
   position:absolute;
   left:110px;
-  top:574px;
+  top:579px;
   width:150px;
   height:31px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -1024,7 +1024,7 @@
 #u68 {
   position:absolute;
   left:1040px;
-  top:545px;
+  top:550px;
   width:131px;
   height:40px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -1062,7 +1062,7 @@
 #u70 {
   position:absolute;
   left:20px;
-  top:504px;
+  top:509px;
   width:72px;
   height:103px;
 }
@@ -1084,7 +1084,7 @@
 #u72 {
   position:absolute;
   left:110px;
-  top:503px;
+  top:508px;
   width:264px;
   height:30px;
   font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
@@ -1110,7 +1110,7 @@
 #u74 {
   position:absolute;
   left:270px;
-  top:574px;
+  top:579px;
   width:110px;
   height:31px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -1141,7 +1141,7 @@
 #u76 {
   position:absolute;
   left:0px;
-  top:850px;
+  top:855px;
   width:1256px;
   height:10px;
 }
@@ -1169,7 +1169,7 @@
 #u77 {
   position:absolute;
   left:110px;
-  top:766px;
+  top:771px;
   width:645px;
   height:27px;
   font-size:14px;
@@ -1192,7 +1192,7 @@
 #u79 {
   position:absolute;
   left:110px;
-  top:812px;
+  top:817px;
   width:150px;
   height:31px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -1223,7 +1223,7 @@
 #u81 {
   position:absolute;
   left:20px;
-  top:742px;
+  top:747px;
   width:72px;
   height:103px;
 }
@@ -1245,7 +1245,7 @@
 #u83 {
   position:absolute;
   left:110px;
-  top:741px;
+  top:746px;
   width:264px;
   height:30px;
   font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
@@ -1271,7 +1271,7 @@
 #u85 {
   position:absolute;
   left:270px;
-  top:812px;
+  top:817px;
   width:110px;
   height:31px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -1302,7 +1302,7 @@
 #u87 {
   position:absolute;
   left:0px;
-  top:971px;
+  top:976px;
   width:1256px;
   height:10px;
 }
@@ -1330,7 +1330,7 @@
 #u88 {
   position:absolute;
   left:110px;
-  top:887px;
+  top:892px;
   width:645px;
   height:27px;
   font-size:14px;
@@ -1353,7 +1353,7 @@
 #u90 {
   position:absolute;
   left:110px;
-  top:933px;
+  top:938px;
   width:150px;
   height:31px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -1384,7 +1384,7 @@
 #u92 {
   position:absolute;
   left:1040px;
-  top:902px;
+  top:907px;
   width:131px;
   height:40px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -1422,7 +1422,7 @@
 #u94 {
   position:absolute;
   left:20px;
-  top:863px;
+  top:868px;
   width:72px;
   height:103px;
 }
@@ -1444,7 +1444,7 @@
 #u96 {
   position:absolute;
   left:110px;
-  top:862px;
+  top:867px;
   width:264px;
   height:30px;
   font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
@@ -1470,7 +1470,7 @@
 #u98 {
   position:absolute;
   left:270px;
-  top:933px;
+  top:938px;
   width:110px;
   height:31px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -1501,7 +1501,7 @@
 #u100 {
   position:absolute;
   left:0px;
-  top:731px;
+  top:736px;
   width:1256px;
   height:10px;
 }
@@ -1529,7 +1529,7 @@
 #u101 {
   position:absolute;
   left:110px;
-  top:647px;
+  top:652px;
   width:645px;
   height:27px;
   font-size:14px;
@@ -1552,7 +1552,7 @@
 #u103 {
   position:absolute;
   left:110px;
-  top:693px;
+  top:698px;
   width:150px;
   height:31px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -1583,7 +1583,7 @@
 #u105 {
   position:absolute;
   left:1040px;
-  top:666px;
+  top:671px;
   width:131px;
   height:40px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -1621,7 +1621,7 @@
 #u107 {
   position:absolute;
   left:20px;
-  top:623px;
+  top:628px;
   width:72px;
   height:103px;
 }
@@ -1643,7 +1643,7 @@
 #u109 {
   position:absolute;
   left:110px;
-  top:622px;
+  top:627px;
   width:264px;
   height:30px;
   font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
@@ -1669,7 +1669,7 @@
 #u111 {
   position:absolute;
   left:270px;
-  top:693px;
+  top:698px;
   width:110px;
   height:31px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -1700,7 +1700,7 @@
 #u113 {
   position:absolute;
   left:1040px;
-  top:782px;
+  top:787px;
   width:131px;
   height:40px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -1870,7 +1870,7 @@
 #u124 {
   position:absolute;
   left:1231px;
-  top:259px;
+  top:257px;
   width:22px;
   height:21px;
   opacity:0.18;
@@ -1898,7 +1898,7 @@
 #u126 {
   position:absolute;
   left:1233px;
-  top:314px;
+  top:312px;
   width:18px;
   height:18px;
 }
@@ -1920,7 +1920,7 @@
 #u128 {
   position:absolute;
   left:1229px;
-  top:331px;
+  top:329px;
   width:25px;
   height:24px;
   font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
@@ -1947,7 +1947,7 @@
 #u130 {
   position:absolute;
   left:1231px;
-  top:276px;
+  top:274px;
   width:25px;
   height:24px;
   font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
@@ -1974,7 +1974,7 @@
 #u132 {
   position:absolute;
   left:1215px;
-  top:252px;
+  top:250px;
   width:10px;
   height:104px;
 }
@@ -2002,7 +2002,7 @@
 #u133 {
   position:absolute;
   left:1231px;
-  top:387px;
+  top:389px;
   width:22px;
   height:21px;
   opacity:0.18;
@@ -2030,7 +2030,7 @@
 #u135 {
   position:absolute;
   left:1233px;
-  top:440px;
+  top:442px;
   width:18px;
   height:18px;
 }
@@ -2052,7 +2052,7 @@
 #u137 {
   position:absolute;
   left:1229px;
-  top:457px;
+  top:459px;
   width:25px;
   height:24px;
   font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
@@ -2079,7 +2079,7 @@
 #u139 {
   position:absolute;
   left:1231px;
-  top:404px;
+  top:406px;
   width:25px;
   height:24px;
   font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
@@ -2106,7 +2106,7 @@
 #u141 {
   position:absolute;
   left:1215px;
-  top:378px;
+  top:380px;
   width:10px;
   height:104px;
 }
@@ -2134,7 +2134,7 @@
 #u142 {
   position:absolute;
   left:1231px;
-  top:510px;
+  top:515px;
   width:22px;
   height:21px;
   opacity:0.18;
@@ -2162,7 +2162,7 @@
 #u144 {
   position:absolute;
   left:1231px;
-  top:527px;
+  top:532px;
   width:25px;
   height:24px;
   font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
@@ -2189,7 +2189,7 @@
 #u146 {
   position:absolute;
   left:1215px;
-  top:501px;
+  top:506px;
   width:10px;
   height:104px;
 }
@@ -2217,7 +2217,7 @@
 #u147 {
   position:absolute;
   left:1231px;
-  top:636px;
+  top:641px;
   width:22px;
   height:21px;
   opacity:0.18;
@@ -2245,7 +2245,7 @@
 #u149 {
   position:absolute;
   left:1231px;
-  top:653px;
+  top:658px;
   width:25px;
   height:24px;
   font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
@@ -2272,7 +2272,7 @@
 #u151 {
   position:absolute;
   left:1215px;
-  top:627px;
+  top:632px;
   width:10px;
   height:104px;
 }
@@ -2300,7 +2300,7 @@
 #u152 {
   position:absolute;
   left:1231px;
-  top:750px;
+  top:755px;
   width:22px;
   height:21px;
   opacity:0.18;
@@ -2328,7 +2328,7 @@
 #u154 {
   position:absolute;
   left:1231px;
-  top:767px;
+  top:772px;
   width:25px;
   height:24px;
   font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
@@ -2355,7 +2355,7 @@
 #u156 {
   position:absolute;
   left:1215px;
-  top:741px;
+  top:746px;
   width:10px;
   height:104px;
 }
@@ -2383,7 +2383,7 @@
 #u157 {
   position:absolute;
   left:1233px;
-  top:567px;
+  top:572px;
   width:18px;
   height:18px;
   opacity:0.2;
@@ -2406,7 +2406,7 @@
 #u159 {
   position:absolute;
   left:1222px;
-  top:551px;
+  top:556px;
   width:34px;
   height:10px;
 }
@@ -2434,7 +2434,7 @@
 #u160 {
   position:absolute;
   left:1231px;
-  top:585px;
+  top:590px;
   width:25px;
   height:24px;
   font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
@@ -2461,7 +2461,7 @@
 #u162 {
   position:absolute;
   left:1233px;
-  top:689px;
+  top:694px;
   width:18px;
   height:18px;
   opacity:0.2;
@@ -2484,7 +2484,7 @@
 #u164 {
   position:absolute;
   left:1222px;
-  top:673px;
+  top:678px;
   width:34px;
   height:10px;
 }
@@ -2512,7 +2512,7 @@
 #u165 {
   position:absolute;
   left:1231px;
-  top:707px;
+  top:712px;
   width:25px;
   height:24px;
   font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
@@ -2539,7 +2539,7 @@
 #u167 {
   position:absolute;
   left:1233px;
-  top:807px;
+  top:812px;
   width:18px;
   height:18px;
   opacity:0.2;
@@ -2562,7 +2562,7 @@
 #u169 {
   position:absolute;
   left:1222px;
-  top:791px;
+  top:796px;
   width:34px;
   height:10px;
 }
@@ -2590,7 +2590,7 @@
 #u170 {
   position:absolute;
   left:1231px;
-  top:825px;
+  top:830px;
   width:25px;
   height:24px;
   font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
@@ -2617,7 +2617,7 @@
 #u172 {
   position:absolute;
   left:1222px;
-  top:428px;
+  top:430px;
   width:34px;
   height:10px;
 }
@@ -2645,7 +2645,7 @@
 #u173 {
   position:absolute;
   left:1222px;
-  top:299px;
+  top:297px;
   width:34px;
   height:10px;
 }
@@ -2701,7 +2701,7 @@
 #u175 {
   position:absolute;
   left:1215px;
-  top:864px;
+  top:869px;
   width:10px;
   height:104px;
 }
@@ -2729,7 +2729,7 @@
 #u176 {
   position:absolute;
   left:1231px;
-  top:868px;
+  top:873px;
   width:22px;
   height:21px;
   opacity:0.18;
@@ -2757,7 +2757,7 @@
 #u178 {
   position:absolute;
   left:1231px;
-  top:885px;
+  top:890px;
   width:25px;
   height:24px;
   font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
@@ -2784,7 +2784,7 @@
 #u180 {
   position:absolute;
   left:1222px;
-  top:909px;
+  top:914px;
   width:34px;
   height:10px;
 }
@@ -2812,7 +2812,7 @@
 #u181 {
   position:absolute;
   left:110px;
-  top:323px;
+  top:248px;
   width:80px;
   height:25px;
   font-size:18px;
@@ -2835,8 +2835,8 @@
 }
 #u183 {
   position:absolute;
-  left:190px;
-  top:317px;
+  left:110px;
+  top:451px;
   width:150px;
   height:31px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -2866,8 +2866,8 @@
 }
 #u185 {
   position:absolute;
-  left:350px;
-  top:317px;
+  left:270px;
+  top:451px;
   width:110px;
   height:31px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -2898,34 +2898,41 @@
 #u187 {
   position:absolute;
   left:110px;
-  top:455px;
-  width:50px;
-  height:25px;
-  font-size:18px;
-  color:#888888;
-  line-height:16px;
+  top:320px;
+  width:130px;
+  height:31px;
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  color:#55BCA2;
+  line-height:18px;
 }
 #u187_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:50px;
-  height:25px;
+  width:130px;
+  height:31px;
+}
+#u187_img.mouseDown {
+}
+#u187.mouseDown {
 }
 #u188 {
   position:absolute;
-  left:0px;
-  top:4px;
-  width:50px;
+  left:2px;
+  top:6px;
+  width:126px;
   word-wrap:break-word;
 }
 #u189 {
   position:absolute;
-  left:166px;
-  top:449px;
-  width:150px;
+  left:250px;
+  top:320px;
+  width:130px;
   height:31px;
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-family:'STHeitiTC-Medium', 'Heiti TC Medium', 'Heiti TC';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -2936,7 +2943,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:150px;
+  width:130px;
   height:31px;
 }
 #u189_img.mouseDown {
@@ -2947,37 +2954,30 @@
   position:absolute;
   left:2px;
   top:6px;
-  width:146px;
+  width:126px;
   word-wrap:break-word;
 }
 #u191 {
   position:absolute;
-  left:326px;
-  top:449px;
-  width:110px;
-  height:31px;
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
-  font-weight:700;
-  font-style:normal;
-  font-size:14px;
-  color:#55BCA2;
-  line-height:18px;
+  left:110px;
+  top:377px;
+  width:80px;
+  height:25px;
+  font-size:18px;
+  color:#888888;
+  line-height:16px;
 }
 #u191_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:110px;
-  height:31px;
-}
-#u191_img.mouseDown {
-}
-#u191.mouseDown {
+  width:80px;
+  height:25px;
 }
 #u192 {
   position:absolute;
-  left:2px;
-  top:6px;
-  width:106px;
+  left:0px;
+  top:4px;
+  width:80px;
   word-wrap:break-word;
 }
